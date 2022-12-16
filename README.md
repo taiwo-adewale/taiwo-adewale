@@ -3,7 +3,7 @@
 
 <p align="center" style="display: flex;"> 
   <img src="https://komarev.com/ghpvc/?username=taiwo-adewale&label=Profile%20views&color=0e75b6&style=flat" alt="taiwo-adewale" /> 
- <a href="https://twitter.com/walecyber_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fairredcap?logo=twitter&style=for-the-badge" alt="fairredcap" /></a>
+ <a href="https://twitter.com/walecyber_dev" target="blank"><img src="https://img.shields.io/twitter/follow/walecyber_dev?logo=twitter&style=for-the-badge" alt="walecyber_dev" /></a>
 
   <a href="mailto:adewaletaiwo08@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
