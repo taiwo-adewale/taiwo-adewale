@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **adewaletaiwo08@gmail.com**
 
-- 📄 Have a look at my portfolio [https://wale-portfolio.netlify.app](https://wale-portfolio.netlify.app)
+- 📄 Have a look at my portfolio [https://taiwo-adewale.vercel.app/projects](https://taiwo-adewale.vercel.app/projects)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
