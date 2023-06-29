@@ -13,7 +13,7 @@
 </a>&nbsp;&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiwo-adewale&show_icons=true&locale=en" alt="taiwo-adewale" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiwo-adewale&show_icons=true&locale=en&layout=compact" alt="taiwo-adewale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taiwo-adewale&show_icons=true&locale=en" alt="taiwo-adewale" /></p>
 
