@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Apps and Sites**
 
-- 👨‍💻 All of my projects are available at [https://taiwo-adewale.github.io/](https://taiwo-adewale.github.io/)
+- 👨‍💻 All of my projects are available at [https://taiwo-adewale.vercel.app/projects](https://taiwo-adewale.vercel.app/projects)
 
 - 💬 Ask me about **React JS, Javascript, Next JS, TailwindCSS, Typescript**
 
