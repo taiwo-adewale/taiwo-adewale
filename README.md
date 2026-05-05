@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taiwo Adewale</h1>
+<h1 align="center">Hi 👋, I'm Adewale Taiwo</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiwo-adewale&label=Profile%20views&color=0e75b6&style=flat" alt="taiwo-adewale" /> </p>
@@ -16,18 +16,11 @@
 - 📫 How to reach me **adewaletaiwo08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/shambles_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shambles_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taiwo-adewale-jsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiwo-adewale-jsdev" height="30" width="40" /></a>
-</p>
+<p align="left"><a href="https://x.com/shambles_dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shambles_dev" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/taiwo-adewale-jsdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiwo-adewale-jsdev" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,sass,tailwind,jest,git" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiwo-adewale&show_icons=true&locale=en&layout=compact" alt="taiwo-adewale" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taiwo-adewale&show_icons=true&locale=en" alt="taiwo-adewale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiwo-adewale&" alt="taiwo-adewale" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=taiwo-adewale" alt="taiwo-adewale" /></p>
