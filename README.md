@@ -16,7 +16,7 @@
 - 📫 How to reach me **adewaletaiwo08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://x.com/shambles_dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shambles_dev" height="30" width="40" /></a> <a href="https://linkedin.com/in/taiwo-adewale-jsdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiwo-adewale-jsdev" height="30" width="40" /></a></p>
+<p align="left"><a href="https://x.com/shambles_dev" target="blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/twitter.svg" alt="shambles_dev" height="30" width="40" /></a> <a href="https://linkedin.com/in/taiwo-adewale-jsdev" target="blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" alt="taiwo-adewale-jsdev" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
